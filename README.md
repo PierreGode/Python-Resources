@@ -13,16 +13,22 @@ An extensive curated list of Python frameworks, libraries, software, and resourc
 - [Community](#community)
 
 ## Online Courses
-- [Learn Python - Codecademy](https://www.codecademy.com/learn/learn-python-3)
-- [Python for Everybody - Coursera](https://www.coursera.org/specializations/python)
-- [Python Tutorial - SoloLearn](https://www.sololearn.com/Course/Python/)
-- [Complete Python Bootcamp: Go from zero to hero in Python 3 - Udemy](https://www.udemy.com/course/complete-python-bootcamp/)
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Udemy](https://www.udemy.com/course/100-days-of-code-the-complete-python-pro-bootcamp-for-2023/)
+- [Programming for Everybody (Getting Started with Python) - Coursera](https://www.coursera.org/learn/python)
+- [Learn Programming with Python - LearnPython](https://www.learnpython.org/)
+- [Google’s Python Class - Google](https://developers.google.com/edu/python)
+- [The Complete Python Bootcamp from Zero to Hero in Python - Udemy](https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-hero-in-python)
+- [Crash Course on Python - Coursera](https://www.coursera.org/professional-certificates/google-it-automation)
+- [Learn Python 3 - Codecademy](https://www.codecademy.com/learn/learn-python-3)
 
 ## Books
+- [Python Crash Course (3rd Edition) - Eric Matthes](https://nostarch.com/pythoncrashcourse3e)
+- [Automate the Boring Stuff with Python (2nd Edition) - Al Sweigart](https://nostarch.com/automatestuff2)
 - [Learning Python - Mark Lutz](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
-- [Python Crash Course - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)
-- [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/)
-- [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/)
+- [Head-First Python - Paul Barry](https://www.amazon.com/Head-First-Python-2nd-Brain-Friendly/dp/1491919531)
+- [Python Distilled - David Beazley](https://www.amazon.com/Python-Distilled-David-M-Beazley/dp/0134173279)
+- [Python 3 - Johannes Ernesti & Peter Kaiser](https://www.rheinwerk-verlag.de/python_3/)
+
 
 ## Podcasts
 - [Talk Python To Me](https://talkpython.fm/)
